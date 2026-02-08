@@ -86,6 +86,9 @@
   <a href="mailto:shubharoy0024@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40"/>
   </a>
+  <a href="https://x.com/royshubha931">
+    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/9811029b-e75d-4b5b-92df-74d3d2c61f88" />
+  </a>
 </p>
 
 ---
