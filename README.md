@@ -19,48 +19,23 @@
 - 💬 Happy to discuss **system design, APIs, full-stack workflows, and open-source contributions**  
 - 📧 Reach me at: **[shubharoy0024@gmail.com](mailto:shubharoy0024@gmail.com)**
 
-  <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" alt="coding animation" />
-</p>
-
 ---
 
 ## 🛠️ Tech Stack  
 
 ### 💻 Languages  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,c,cpp,python" />
 </p>
 
 ### ⚡ Frameworks & Libraries  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="43"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="45"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,tailwind" />
 </p>
 
 ### 🧰 Tools & Platforms  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Apache_Kafka_logo.svg" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" height="45"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,docker,mysql,redis,mongodb,graphql,nginx,kafka,socketio" />
 </p>
 
 ---
@@ -68,12 +43,13 @@
 ## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubharoydev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubharoydev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+  <!-- Fixed Stats Cards using shion.dev mirror for better uptime -->
+  <img src="https://github-readme-stats.shion.dev/api?username=shubharoydev&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" height="175px"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shubharoydev&layout=compact&theme=radical&border_radius=10" alt="Top Languages" height="175px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubharoydev&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubharoydev&theme=radical&border_radius=10" alt="GitHub Streak" />
 </p>
 
 ---
@@ -82,18 +58,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubha-roy-838085355/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
   <a href="mailto:shubharoy0024@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
-  <a href="https://x.com/royshubha931">
-    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/9811029b-e75d-4b5b-92df-74d3d2c61f88" />
+  <a href="https://x.com/royshubha931" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
   </a>
 </p>
 
----
-
 <p align="center">
-  <em>✨ Thanks for visiting! Feel free to explore my repositories, contribute, or just drop a message. Let’s build something extraordinary together. 🚀</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFCC&height=100&section=footer" />
 </p>
