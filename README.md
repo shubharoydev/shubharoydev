@@ -30,12 +30,12 @@
 
 ### ⚡ Frameworks & Libraries  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,tailwind,fastapi" />
 </p>
 
 ### 🧰 Tools & Platforms  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,docker,mysql,redis,mongodb,graphql,nginx,kafka,socketio" />
+  <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,githubactions,docker,mysql,redis,mongodb,graphql,nginx,kafka,linux,npm" />
 </p>
 
 ---
@@ -44,8 +44,8 @@
 
 <p align="center">
   <!-- Fixed Stats Cards using shion.dev mirror for better uptime -->
-  <img src="https://github-readme-stats.shion.dev/api?username=shubharoydev&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" height="175px"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shubharoydev&layout=compact&theme=radical&border_radius=10" alt="Top Languages" height="175px"/>
+ <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shubharoydev&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" height="175px"/>
+ <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shubharoydev&layout=compact&theme=radical&border_radius=10" alt="Top Languages" height="175px"/>
 </p>
 
 <p align="center">
