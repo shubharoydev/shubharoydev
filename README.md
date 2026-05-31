@@ -44,6 +44,7 @@
   <img src="https://cdn.brandfetch.io/idO6_6uqJ9/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/apache_zookeeper/apache_zookeeper-icon.svg" width="50"/>
   <img src="https://cdn.brandfetch.io/id9sqpmbQ-/w/240/h/240/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" width="50"/>
+  <img src="https://cdn.brandfetch.io/idN_w4dAqi/w/2529/h/2264/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" width="50" />
 </p>
 
 ## 📊 GitHub Insights  
@@ -70,7 +71,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
   <a href="https://x.com/royshubha931" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+    <img src="https://cdn.brandfetch.io/idS5WhqBbM/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" height="45"/>
   </a>
 </p>
 
