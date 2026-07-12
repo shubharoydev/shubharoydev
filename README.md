@@ -30,7 +30,7 @@
 
 ### ⚡ Frameworks & Libraries  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,tailwind,fastapi" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,tailwind,fastapi,nextjs" />
 </p>
 
 ### 🧰 Tools & Platforms  
