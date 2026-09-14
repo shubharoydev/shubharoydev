@@ -35,7 +35,7 @@
 
 ### 🧰 Tools & Platforms  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,githubactions,docker,mysql,redis,mongodb,graphql,nginx,kafka,linux,npm&perline=21" />
+  <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,githubactions,docker,mysql,redis,mongodb,graphql,nginx,kafka,linux,npm,aws&perline=21" />
 </p>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="50"/>
