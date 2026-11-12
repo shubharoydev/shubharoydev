@@ -40,7 +40,6 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50"/>
-  <img src="https://cdn.brandfetch.io/idO6_6uqJ9/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/apache_zookeeper/apache_zookeeper-icon.svg" width="50"/>
   <img src="https://cdn.brandfetch.io/id9sqpmbQ-/w/240/h/240/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" width="50"/>
   <img src="https://cdn.brandfetch.io/idN_w4dAqi/w/2529/h/2264/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" width="50" />
